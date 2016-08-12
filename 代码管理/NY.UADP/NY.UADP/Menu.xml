@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<page id="base" name="基本配置">
+  <group id="base_data" name="数据库配置">
+  </group>
+  <group id="base_fun" name="功能配置">
+    <item id="base_fun_menu" name="菜单配置"/>
+    <item id="base_fun_template" name="单据模板"/>
+  </group>
+</page>

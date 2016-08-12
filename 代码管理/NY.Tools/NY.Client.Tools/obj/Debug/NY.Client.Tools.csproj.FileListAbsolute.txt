@@ -1,0 +1,5 @@
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Tools\NY.Client.Tools\bin\Debug\NY.Client.Tools.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Tools\NY.Client.Tools\bin\Debug\NY.Client.Tools.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Tools\NY.Client.Tools\obj\Debug\NY.Client.Tools.csprojResolveAssemblyReference.cache
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Tools\NY.Client.Tools\obj\Debug\NY.Client.Tools.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Tools\NY.Client.Tools\obj\Debug\NY.Client.Tools.pdb

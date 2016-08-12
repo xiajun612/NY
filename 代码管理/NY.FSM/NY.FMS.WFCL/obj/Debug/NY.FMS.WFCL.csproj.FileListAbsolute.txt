@@ -1,0 +1,9 @@
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\bin\Debug\NY.FMS.WFCL.exe.config
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\bin\Debug\NY.FMS.WFCL.exe
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\bin\Debug\NY.FMS.WFCL.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\obj\Debug\NY.FMS.WFCL.csprojResolveAssemblyReference.cache
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\obj\Debug\NY.FMS.WFCL.Form1.resources
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\obj\Debug\NY.FMS.WFCL.Properties.Resources.resources
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\obj\Debug\NY.FMS.WFCL.csproj.GenerateResource.Cache
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\obj\Debug\NY.FMS.WFCL.exe
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WFCL\obj\Debug\NY.FMS.WFCL.pdb

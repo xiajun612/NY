@@ -1,0 +1,8 @@
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\bin\Debug\NY.Framework.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\bin\Debug\NY.Framework.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\bin\Debug\Newtonsoft.Json.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\bin\Debug\NY.Utility.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\bin\Debug\NY.Utility.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\bin\Debug\NY.Utility.xml
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\obj\Debug\NY.Framework.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Framework\NY.Framework\obj\Debug\NY.Framework.pdb

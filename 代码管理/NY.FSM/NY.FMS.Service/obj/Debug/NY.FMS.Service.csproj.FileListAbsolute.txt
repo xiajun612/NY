@@ -1,0 +1,4 @@
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.Service\bin\Debug\NY.FMS.Service.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.Service\bin\Debug\NY.FMS.Service.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.Service\obj\Debug\NY.FMS.Service.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.Service\obj\Debug\NY.FMS.Service.pdb

@@ -1,0 +1,8 @@
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Utility\NY.Utility\bin\Debug\NY.Utility.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Utility\NY.Utility\bin\Debug\NY.Utility.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Utility\NY.Utility\obj\Debug\NY.Utility.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Utility\NY.Utility\obj\Debug\NY.Utility.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\公共dll\Client\NY.Utility.XML
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\公共dll\Client\NY.Utility.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\公共dll\Client\NY.Utility.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.Utility\NY.Utility\obj\Debug\NY.Utility.csprojResolveAssemblyReference.cache

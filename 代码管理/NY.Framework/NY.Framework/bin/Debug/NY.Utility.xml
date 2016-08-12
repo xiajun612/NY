@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NY.Utility</name>
+    </assembly>
+    <members>
+        <member name="T:NY.Utility.ClsMsg">
+            <summary>
+            Author:xxp
+            Remark:消息类，用于显示各类信息
+            CreateTime:20150609
+            </summary>
+        </member>
+        <member name="M:NY.Utility.ClsMsg.ShowInfoMsg(System.String)">
+            <summary>
+            显示信息
+            </summary>
+            <param name="strTxt">信息说明</param>
+        </member>
+        <member name="M:NY.Utility.ClsMsg.ShowInfoMsg(System.Windows.Forms.IWin32Window,System.String)">
+            <summary>
+            显示信息
+            </summary>
+            <param name="strTxt">信息说明</param>
+        </member>
+        <member name="M:NY.Utility.ClsMsg.ShowWarningEmptyMsg(System.String)">
+            <summary>
+            警告提示信息
+            </summary>
+            <param name="strTxt">信息说明</param>
+        </member>
+        <member name="M:NY.Utility.ClsMsg.ShowWarningEmptyMsg(System.Windows.Forms.IWin32Window,System.String)">
+            <summary>
+            警告提示信息
+            </summary>
+            <param name="strTxt">信息说明</param>
+        </member>
+        <member name="M:NY.Utility.ClsMsg.ShowWarningMsg(System.String)">
+            <summary>
+            警告提示信息
+            </summary>
+            <param name="strTxt">信息说明</param>
+        </member>
+        <member name="M:NY.Utility.ClsMsg.ShowErrMsg(System.String)">
+            <summary>
+            错误信息
+            </summary>
+            <param name="strTxt">信息说明</param>
+        </member>
+        <member name="M:NY.Utility.ClsMsg.ShowQuestionMsg(System.String)">
+            <summary>
+             选择信息
+            </summary>
+            <param name="strTxt">信息说明</param>
+            <returns>返回Yes||No</returns>
+        </member>
+        <member name="T:NY.Utility.GridCheckBoxMarks">
+            <summary>
+            网格控件选择列
+            </summary>
+        </member>
+        <member name="F:NY.Utility.GridCheckBoxMarks.gridView">
+            <summary>需要添加选择列的网格控件</summary>
+        </member>
+        <member name="F:NY.Utility.GridCheckBoxMarks.selection">
+            <summary>选中的所有行</summary>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.#ctor">
+            <summary>构造函数</summary>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.#ctor(DevExpress.XtraGrid.Views.Grid.GridView)">
+            <summary>构造函数</summary>
+            <param name="view">需要添加选择列的网格控件</param>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.GetSelectedRows">
+            <summary>获取所有选中行</summary>
+            <returns>选中行集合</returns>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.GetSelectedRow(System.Int32)">
+            <summary>根据指定索引获取选中行</summary>
+            <param name="index">行索引</param>
+            <returns>选中行</returns>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.GetSelectedIndex(System.Object)">
+            <summary>获取选中行的索引</summary>
+            <param name="row">选中行</param>
+            <returns>对应索引</returns>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.ClearSelection">
+            <summary>清除所有选择状态</summary>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.SelectAll">
+            <summary>选中所有行</summary>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.SelectGroup(System.Int32,System.Boolean)">
+            <summary>选中或取消指定组</summary>
+            <param name="rowHandle">行索引</param>
+            <param name="select">是否选中</param>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.SelectRow(System.Int32,System.Boolean)">
+            <summary>选中或取消指定行</summary>
+            <param name="rowHandle">行索引</param>
+            <param name="select">是否选中</param>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.InvertRowSelection(System.Int32)">
+            <summary>反转选择状态</summary>
+            <param name="rowHandle">索引</param>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.IsGroupRowSelected(System.Int32)">
+            <summary>判断组是否选中</summary>
+            <param name="rowHandle">索引</param>
+            <returns>选中返回true，否则返回false</returns>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.IsRowSelected(System.Int32)">
+            <summary>判断行是否选中</summary>
+            <param name="rowHandle">索引</param>
+            <returns>选中返回true，否则返回false</returns>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.SetColumnHeader(System.Boolean,System.String)">
+            <summary>设置选择行名称和表头是否显示全选控件</summary>
+            <param name="isCheckBoxHeader">是否显示全选控件，默认显示</param>
+            <param name="headerName">选择列表头名称，在isCheckBoxHeader为false时生效</param>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.Attach(DevExpress.XtraGrid.Views.Grid.GridView)">
+            <summary>添加CheckBox选择列</summary>
+            <param name="view"></param>
+        </member>
+        <member name="M:NY.Utility.GridCheckBoxMarks.Detach">
+            <summary> 释放CheckBox选择列</summary>
+        </member>
+        <member name="E:NY.Utility.GridCheckBoxMarks.Click">
+            <summary>勾选框点击事件</summary>
+        </member>
+        <member name="P:NY.Utility.GridCheckBoxMarks.View">
+            <summary>设置或获取需要添加选择列的网格控件</summary>
+        </member>
+        <member name="P:NY.Utility.GridCheckBoxMarks.CheckMarkColumn">
+            <summary>获取选择列</summary>
+        </member>
+        <member name="P:NY.Utility.GridCheckBoxMarks.SelectedCount">
+            <summary>获取选中的行数</summary>
+        </member>
+    </members>
+</doc>

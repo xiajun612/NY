@@ -1,0 +1,6 @@
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WCF\bin\NY.FMS.WCF.dll.config
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WCF\bin\NY.FMS.WCF.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WCF\bin\NY.FMS.WCF.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WCF\obj\Debug\NY.FMS.WCF.csprojResolveAssemblyReference.cache
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WCF\obj\Debug\NY.FMS.WCF.dll
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.FSM\NY.FMS.WCF\obj\Debug\NY.FMS.WCF.pdb

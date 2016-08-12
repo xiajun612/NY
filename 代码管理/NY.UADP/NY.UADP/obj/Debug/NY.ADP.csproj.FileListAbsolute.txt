@@ -1,0 +1,11 @@
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\bin\Debug\NY.ADP.exe.config
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\bin\Debug\NY.ADP.exe
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\bin\Debug\NY.ADP.pdb
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.UAP.RibbonForm1.resources
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.UAP.RibbonForm2.resources
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.UAP.UAPForm.resources
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.ADP.Properties.Resources.resources
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.ADP.csproj.GenerateResource.Cache
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.ADP.exe.licenses
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.ADP.exe
+E:\Works\Company Work\Dev Projects\Code Project Manager\农业平台开发\代码管理\NY.UAP\NY.UAP\obj\Debug\NY.ADP.pdb
